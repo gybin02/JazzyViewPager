@@ -1,7 +1,9 @@
 ADD BY zxb 
-  增加的Viewpager 页面切换特效，包含，3D旋转，手风琴，堆栈等。
-  http://www.it165.net/pro/html/201404/11420.html
-http://www.it165.net/uploadfile/files/2014/0402/20140402183327236.jpg
+增加的Viewpager 页面切换特效，包含，3D旋转，手风琴，堆栈等。
+====  
+http://www.it165.net/pro/html/201404/11420.html
+==
+![](http://www.it165.net/uploadfile/files/2014/0402/20140402183327236.jpg)
 JazzyViewPager
 ==============
 
