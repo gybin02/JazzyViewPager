@@ -1,3 +1,6 @@
+ADD BY zxb 
+  增加的Viewpager 页面切换特效，包含，3D旋转，手风琴，堆栈等。
+
 JazzyViewPager
 ==============
 
